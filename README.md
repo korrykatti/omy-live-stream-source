@@ -12,6 +12,6 @@ Thats it
 
 
 
-** .ENV file **
+## .ENV file 
 
 just write this in it : ```KEY = "YOUR STREAM KEY"```
