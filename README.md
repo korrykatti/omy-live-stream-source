@@ -9,3 +9,9 @@ make a .env file with stream key also ( KEY = "YOUR STREAM KEY" )
 To change the video change the video.mp4 file
 
 Thats it
+
+
+
+** .ENV file **
+
+just write this in it : ```KEY = "YOUR STREAM KEY"```
