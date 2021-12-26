@@ -4,7 +4,7 @@ This is the source code of the live stream playing fire crackling in my youtube 
 
 Just deploy it and install the flask package
 
-make a .env file with stream key also
+make a .env file with stream key also ( KEY = "YOUR STREAM KEY" )
 
 To change the video change the video.mp4 file
 
