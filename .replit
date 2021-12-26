@@ -1,0 +1,2 @@
+language = "python"
+start = "python main.py"
