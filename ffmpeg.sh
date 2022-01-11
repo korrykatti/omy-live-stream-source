@@ -6,7 +6,7 @@
 
 VBR="100k"                                    # Bitrate de la vidéo en sortie
 FPS="30"                                       # FPS de la vidéo en sortie
-QUAL="medium"                                  # Preset de qualité FFMPEG
+QUAL="ultrafast"                                  # Preset de qualité FFMPEG
 YOUTUBE_URL="rtmp://x.rtmp.youtube.com/live2"  # URL de base RTMP youtube
 
 SOURCE="video.mp4"              # Source UDP (voir les annonces SAP)
