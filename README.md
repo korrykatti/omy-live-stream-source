@@ -1,3 +1,5 @@
+# [ BRUH STOP FORKING IT STAR IT ALSO ]
+
 # omy-live-stream-source
 
 This is the source code of the live stream playing fire crackling in my youtube channel live [https://www.youtube.com/c/KorryKatti] .
